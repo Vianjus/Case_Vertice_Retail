@@ -1,7 +1,7 @@
 # Relatório Técnico: Prova de Conceito (PoC) do Classificador de Atendimento Inteligente
 
-**Data:** 21 de Setembro de 2026  
-**Autor:** Especialista em Engenharia de Machine Learning  
+**Data:** 20 de Setembro de 2026  
+**Autor:** Vinícius Nunes  
 **Cliente:** Vértice Retail  
 **Assunto:** Triagem Automatizada e Categorização de Chamados via IA Generativa  
 
